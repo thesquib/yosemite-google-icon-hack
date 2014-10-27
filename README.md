@@ -1,4 +1,5 @@
 yosemite-google-drive-fix
 =========================
 
-Fixes the Google Drive menu bar icon when using the dark theme in Yosemite. 
+
+This *will* (not yet) fix the Google Drive menu bar icon when using the dark theme in Yosemite. It is a reversible operation, you can just run the script again.
