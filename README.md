@@ -20,4 +20,4 @@ Assumptions:
 <li>You know what you are doing (I wrote this for myself)
 <li>python is installed with python PIL or Pillow, i.e:
 </ol>
-<code>brew install pillow</code>
+<code>pip install pillow</code>
