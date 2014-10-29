@@ -1,5 +1,10 @@
 #!/bin/bash
-#Unfinished, do not run yet.
+
+#Copying and distribution of this file, with or without modification,
+#are permitted in any medium without royalty provided the copyright
+#notice and this notice are preserved.  This file is offered as-is,
+#without any warranty.
+
 DRIVE_LOCATION="/Applications/Google Drive.app"
 
 if [[ ("$#" -eq 1) && ($1 =~ .*Google\ Drive\.app) ]]; then
