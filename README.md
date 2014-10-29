@@ -5,8 +5,8 @@ This script is a quick hack to fix the Google Drive menu bar icon when using the
 
 google_hangouts_fix.py
 =========================
-The current version of Google Chrome and Google Hangouts is not compatible with the
-dark menu bar on Mac OS X Yosemite
+The current versions of the Google Hangouts extension is not compatible with the
+dark menu bar on Mac OS X Yosemite. This is *not* for the Google Hangouts App, only for the extension.
 
 This simple script works with the current version of the Google Hangouts extension, and inverts the 
 presence images so they are visible in the menu bar. 

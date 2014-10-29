@@ -28,13 +28,18 @@ from PIL import Image,ImageOps
 
 
 supportedPatchLevels = ["2014.910.433.1_0"]
-iconFileNames = ["available_19.png", "available_38.png", "available_mac_19.png", 
-				"available_mac_38.png", "available_missed_19.png", "available_missed_38.png", 
-				"available_missed_mac_19.png", "available_missed_mac_38.png", "offline_19.png", 
-				"offline_38.png", "offline_mac_19.png", "offline_mac_38.png", "offline_unknown_19.png", 
-				"offline_unknown_38.png", "offline_unknown_mac_19.png", "offline_unknown_mac_38.png", 
-				"offline_working_19.png", "offline_working_38.png", "offline_working_mac_19.png", 
-				"offline_working_mac_38.png"]
+iconFileNames = [
+				#these are the mac icons we want to change
+				"available_mac_19.png", "offline_working_mac_38.png",
+				"available_mac_38.png","available_missed_mac_19.png", "available_missed_mac_38.png", 
+				"offline_unknown_mac_19.png", "offline_unknown_mac_38.png", "offline_working_mac_19.png",
+				"offline_mac_19.png", "offline_mac_38.png",
+				#these are the google chrome browser icons
+				# "available_19.png", "available_38.png",
+				# "available_missed_19.png", "available_missed_38.png", "offline_19.png", 
+				# "offline_38.png", "offline_unknown_19.png", 
+				# "offline_unknown_38.png", "offline_working_19.png", "offline_working_38.png",
+				]
 chromePath = "/Library/Application Support/Google/Chrome/Default/Extensions/nckgahadagoaajjgafhacjanaoiihapd/"
 imagePath = "images_4/presence"
 
