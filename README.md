@@ -14,8 +14,10 @@ presence images so they are visible in the menu bar.
 To reverse, just run again. 
 
 Assumptions:
-Mac OS X Yosemite
-Google Chrome with Google Hangouts extension
-You know what you are doing (I wrote this for myself)
-python is installed with python PIL or Pillow, i.e:
- brew install pillow
+<ul>
+<li>Mac OS X Yosemite
+<li>Google Chrome with Google Hangouts extension
+<li>You know what you are doing (I wrote this for myself)
+<li>python is installed with python PIL or Pillow, i.e:
+</ol>
+<code>brew install pillow</code>
