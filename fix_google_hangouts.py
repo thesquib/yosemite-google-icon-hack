@@ -7,6 +7,7 @@ notice and this notice are preserved.  This file is offered as-is,
 without any warranty.
 
 
+
 The current version of Google Chrome and Google Hangouts is not compatible with the
 dark menu bar on Mac OS X Yosemite
 
